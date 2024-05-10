@@ -1,0 +1,22 @@
+/* Add this to the existing CSS */
+
+.ps5, .psvr2 {
+    padding: 50px 0;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.ps5 h2, .psvr2 h2 {
+    margin-bottom: 30px;
+}
+
+.ps5-content, .psvr2-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.ps5-content img, .psvr2-content img {
+    max-width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
